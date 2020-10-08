@@ -1,6 +1,5 @@
-# Name
+# Practice-Tracker App
 
-Practice-Tracker App
 
 ## Description
 My first React-Project - 
